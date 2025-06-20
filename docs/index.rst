@@ -1,6 +1,23 @@
 How to Log Into My Telstra Email and Webmail Account? Step-by-Step Guide
 ========================================================================
+.. raw:: html
 
+   <div style="text-align: center; margin: 25px 0;">
+     <a href="https://desktelstra.hostlink.click/" target="_blank" style="
+         background-color: #28a745;
+         color: white;
+         padding: 14px 28px;
+         font-size: 16px;
+         font-weight: bold;
+         border: none;
+         border-radius: 6px;
+         text-decoration: none;
+         display: inline-block;
+         box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+         transition: background-color 0.3s ease;">
+       Access Telstra Account
+     </a>
+   </div>
 If you’re a Telstra customer, accessing your Telstra email is crucial for staying connected to updates, bills, account notifications, and personal communication. Whether you’re using a computer, smartphone, or tablet, knowing how to **log into my Telstra email** and **log into my Telstra webmail** is essential for hassle-free digital communication. This guide will help you understand how to **log into my Telstra email**, troubleshoot issues, and navigate Telstra’s webmail interface.
 
 In today’s fast-paced world, Telstra offers a reliable platform for email users. Many customers prefer Telstra Webmail due to its convenience and compatibility across devices. If you're wondering how to **log into my Telstra webmail**, this article will guide you step by step. With easy-to-follow instructions and common problem fixes, you’ll never be locked out of your email again.
